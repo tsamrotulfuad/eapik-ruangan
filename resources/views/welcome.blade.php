@@ -32,15 +32,17 @@
         </div>
     </header>
     <main>
-        <div class="container-fluid my-3">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-6">
                     <div class="container my-5">
                         <div class="p-5 bg-body-tertiary rounded-3">
-                            <h2 class="text-body-emphasis mb-3">Basic jumbotron</h2>
+                            <h3 class="text-body-emphasis mb-3">Basic jumbotron</h3>
                             <div class="row g-2">
                                 <div class="col-6">
-                                    <div class="p-2"><i class="bi bi-building-check" style="font-size: 1.5rem;"></i></div>
+                                    <div class="p-2 d-flex"><i class="bi bi-building-check" style="font-size: 1.5rem;"></i>
+                                        <div class="align-self-center mx-2">Ruang Rapat Mini</div>
+                                    </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="p-2"><i class="bi bi-person-check-fill" style="font-size: 1.5rem;"></i>
@@ -53,17 +55,19 @@
                                     <div class="p-2"><i class="bi bi-clock-fill" style="font-size: 1.5rem;"></i></div>
                                 </div>
                                 <div class="col-6">
-                                    <div class="p-2">Custom column padding</div>
+                                   
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="container my-5">
                         <div class="p-5 bg-body-tertiary rounded-3">
-                            <h2 class="text-body-emphasis mb-3">Basic jumbotron</h2>
+                            <h3 class="text-body-emphasis mb-3">Basic jumbotron</h3>
                             <div class="row g-2">
                                 <div class="col-6">
-                                    <div class="p-2"><i class="bi bi-building-check" style="font-size: 1.5rem;"></i></div>
+                                    <div class="p-2 d-flex"><i class="bi bi-building-check" style="font-size: 1.5rem;"></i>
+                                        <div class="align-self-center mx-2">Ruang Rapat Mini</div>
+                                    </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="p-2"><i class="bi bi-person-check-fill" style="font-size: 1.5rem;"></i>
@@ -76,12 +80,12 @@
                                     <div class="p-2"><i class="bi bi-clock-fill" style="font-size: 1.5rem;"></i></div>
                                 </div>
                                 <div class="col-6">
-                                    <div class="p-2">Custom column padding</div>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="container my-1">
+                    <div class="container">
                         <div class="p-5 rounded-3">
                             <div class="row g-2">
                                 <div class="col-6 align-items-center">
@@ -113,7 +117,7 @@
                     </div>
                 </div>
                 <div class="col-6">
-                    <div class="container my-5">
+                    <div class="container my-4">
                         <div class="rounded-0">
                             <!-- <iframe width="100%" height="460" src="https://www.youtube.com/embed/TYfcImTBfyk?si=QoWqJNYnBMAnnc0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
                         </div>
